@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026085584900",
+    "project_id": "pinjamantenor2bulan",
+    "storage_bucket": "pinjamantenor2bulan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026085584900:android:c47fb1cacf399e8f307551",
+        "android_client_info": {
+          "package_name": "com.pinjolojktenor2bulan.pinjolcepatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026085584900-e67otumq366ekcg5bt368gvk9q8sfhc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp4Dp1mVHKRv0mSbuNRgj1vKWA5ucKrO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026085584900-e67otumq366ekcg5bt368gvk9q8sfhc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
